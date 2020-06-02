@@ -1,0 +1,9 @@
+The phase voltages are:
+VR=235.0∠0.0
+VY=230.0∠120.0
+VB=230.0∠240.0
+The phase currents are:
+IR=2.0∠0.0
+IY=2.0∠120.0
+IB=2.0∠240.0
+The electrical system is Unbalanced
