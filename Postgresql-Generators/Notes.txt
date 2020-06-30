@@ -1,0 +1,19 @@
+Postgresql  >>>>
+-----------
+
+CRUD operation in Postgreq using Postgresql
+
+MySQL - RDBMS
+FirebaseDB - NoSQL
+Postgres -OODB/RDBMS
+
+1. Install DB - Community Server - host/port/un/pw
+	https://www.postgresql.org/download/
+	host: localhost or 127.0.0.1
+	port no: 5432 un/pw
+2. Install driver
+	pip install psycopg2 
+3. CRUD DB IDE - pgadmin4 (Web based IDE)
+	https://www.pgadmin.org/download/
+4. CRUD operation using Python
+	https://www.tutorialspoint.com/postgresql/postgresql_python.htm
