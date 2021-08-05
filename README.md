@@ -22,7 +22,7 @@ Visit Instructors' [Home Page](https://venkataswamy.in) to collaborate.
 	Link: [Transformer Library](https://github.com/venkataswamyr/python-classroom/tree/master/Transformer%20Library "Transformer Library")
 	> DC generator Library to calculate EMF induced.
 	```bash
-	Folder name: 
+	Folder name: DCGeneratorEMF
 	```
 	Link: [DCGeneratorEMF](https://github.com/venkataswamyr/python-classroom/tree/master/DCGeneratorEMF "DCGeneratorEMF")
 	
