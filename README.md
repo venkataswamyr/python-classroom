@@ -1,4 +1,4 @@
-# python-classroom
+# Python-Classroom
 This repository contains all the class demonstrations.
 
 
@@ -19,8 +19,20 @@ Visit Instructors' [Home Page](https://venkataswamy.in) to collaborate.
 	```bash
 	Folder name: Transformer Library
 	```
+	Link: [Transformer Library](https://github.com/venkataswamyr/python-classroom/tree/master/Transformer%20Library "Transformer Library")
+	> DC generator Library to calculate EMF induced.
+	```bash
+	Folder name: 
+	```
+	Link: [DCGeneratorEMF](https://github.com/venkataswamyr/python-classroom/tree/master/DCGeneratorEMF "DCGeneratorEMF")
 	
-
+2.  Demonstration of Statements, Web services and SMTP
+	> Program to find available vaccination center and send email using cowin api provided by Govt. of India.
+	```bash
+	Folder name: cowin
+	```
+	Link: [cowin](https://github.com/venkataswamyr/python-classroom/tree/master/cowin "cowin")
+	
 ### Instructor
 <p>
  <img src="https://venkataswamy.in/images/img1.jpg" alt="Girl in a jacket" width="100"> 
